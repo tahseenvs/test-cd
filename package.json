@@ -1,0 +1,20 @@
+{
+  "name": "test-cd",
+  "version": "1.0.0",
+  "description": "npm install netlify-cli -g\r netlify deploy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"deploy":"netlify deploy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tahseenvs/test-cd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tahseenvs/test-cd/issues"
+  },
+  "homepage": "https://github.com/tahseenvs/test-cd#readme"
+}
